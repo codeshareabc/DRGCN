@@ -1,6 +1,8 @@
 import time
 import tensorflow as tf
 import numpy as np
+import sys 
+sys.path.append('..')
 import models.graph as mg
 import scipy.sparse
 from utils import data_process, sparse
