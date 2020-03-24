@@ -1,6 +1,8 @@
 import time
 import tensorflow as tf
 import numpy as np
+import sys 
+sys.path.append('..')
 import models.graph as mg
 import models.gmm as g
 import models.adversarialNets as ma
