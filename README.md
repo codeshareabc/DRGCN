@@ -6,6 +6,6 @@ This is a TensorFlow implementation of DR-GCN
 cd run
 python drgcn.py
 ```
-```
+
 The running results are also shown in the file run/drgcn.ipynb
-```
+
