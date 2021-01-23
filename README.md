@@ -1,6 +1,5 @@
 # DR-GCN
-This is a TensorFlow implementation of DR-GCN in the paper Multi-Class Imbalanced Graph Convolutional Network Learning
-
+This is a TensorFlow implementation of DR-GCN 
 # Run the model
 ```
 cd run
